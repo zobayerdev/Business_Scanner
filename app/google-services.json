@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "390514317134",
+    "project_id": "business-scanner-76d71",
+    "storage_bucket": "business-scanner-76d71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390514317134:android:8c88e16f473a90b5fc301f",
+        "android_client_info": {
+          "package_name": "com.trodev.businessscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390514317134-do2fv2jbn5sekcjl6mpd54v86b8ce875.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trodev.businessscanner",
+            "certificate_hash": "5a5404dde3353cfbdd0b0a1161507b23f9b52a29"
+          }
+        },
+        {
+          "client_id": "390514317134-b8mqc7gvvua3c0tgbdcufj890so94hf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO1wZIFVrGVx42rbrBDIRHEJJpcoChsvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390514317134-b8mqc7gvvua3c0tgbdcufj890so94hf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
